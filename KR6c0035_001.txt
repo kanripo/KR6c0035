@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:48.278633
+#+DATE: 2015-08-30 19:44:49.516505
 #+TITLE: 能斷金剛般若波羅蜜多經論頌
 #+PROPERTY: CBETA_ID T25n1514
 #+PROPERTY: ID KR6c0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1514
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0035_T_001-0885a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1514[cf.Nos.1511-1513]¶
-
- 《能斷金剛般若波羅蜜多經論頌》¶
+No. 1514 [cf. Nos. 1511-1513]¶
+《能斷金剛般若波羅蜜多經論頌》¶
 一卷¶
 ¶
 無著菩薩造¶
